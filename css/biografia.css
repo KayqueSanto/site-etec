@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://upload.wikimedia.org/wikipedia/pt/thumb/8/8d/Vicente_do_Rego_Monteiro.jpg/200px-Vicente_do_Rego_Monteiro.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+
+}
+#primeira{
+    background-color:rgba(79,79,79,0.6);
+    width: 70%;
+    padding: 30px 5%;
+    margin: auto;
+    
+}
+#segunda{
+    background-color:rgba(79,79,79,0.6);
+    width: 70%;
+    padding: 30px 5%;
+    margin: auto;
+}
+
+p{
+    text-align: justify;
+}
